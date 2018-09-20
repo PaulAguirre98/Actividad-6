@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Actividad 6</string>
+    <string name="go_to_scene_2">Go_to_Scene_2</string>
+    <string name="go_to_scene_1">Go_To_Scene_1</string>
+    <string name="title_no_se_mueve">Title_no_se_mueve</string>
+    <string name="text_line_another_scene">Text_Line_Another_Scene</string>
+</resources>
